@@ -2,3 +2,6 @@ YO
 hello
 hola
 bonjour
+Hola, Como estas?
+Muy bien ahora
+que hora es ? 
